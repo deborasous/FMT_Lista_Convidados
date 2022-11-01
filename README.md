@@ -13,7 +13,7 @@ Nesse projeto iniciei os estudos sobre como trabalhar com Classes em Javascript 
 
 ### Testar aplicação
 
-https://deborasous.github.io/Floripa_Mais_Tech_Lista_Convidados/
+https://deborasous.github.io/FMT_Lista_Convidados/
 
 
 ### Demo
